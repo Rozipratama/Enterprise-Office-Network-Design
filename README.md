@@ -6,6 +6,8 @@ This project demonstrates the design and simulation of an enterprise office netw
 
 The simulated office includes multiple departments, a centralized server room, wired endpoints, network printers, IP phones, and wireless access points.
 
+![Topology](Screenshots2026-10-19225743.png)
+
 ## Objectives
 
 - Design a physical office network layout.
